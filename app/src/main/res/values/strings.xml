@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">counter_1</string>
+    <string name="btnCountLabel">Calculeaza</string>
+    <string name="rBtnUpLabel">Adauga</string>
+    <string name="rBtnDownLabel">Scade</string>
+
+</resources>
